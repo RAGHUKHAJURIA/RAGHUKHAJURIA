@@ -9,8 +9,6 @@
             /____/                                /___/                      
 ```
 
-*"Architecting scalable systems & pushing the boundaries of the web."*
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Building+AI+%26+System+Design;React+%2B+Next.js+%2B+AWS;Securing+and+Scaling+the+Web)](https://git.io/typing-svg)
 
 </div>
