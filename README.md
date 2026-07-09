@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Know About Me
+## Know About Me
 
 **Hey there! I'm Raghu Khajuria**
 
@@ -29,7 +29,7 @@ Currently exploring: Generative AI applications, agentic workflows, and cloud-na
 
 ---
 
-## 🔥 Top Projects
+## Top Projects
 
 > *Built to solve real problems, not just pass vivas.*
 
@@ -43,7 +43,7 @@ Currently exploring: Generative AI applications, agentic workflows, and cloud-na
 
 ---
 
-## 🛠️ Tech Arsenal
+## Skills & Tools
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Currently exploring: Generative AI applications, agentic workflows, and cloud-na
 
 ---
 
-## 💻 Data Structures & Algorithms
+## Data Structures & Algorithms
 
 Successfully solved **300+ problems** across major platforms:
 
@@ -79,7 +79,7 @@ Successfully solved **300+ problems** across major platforms:
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
