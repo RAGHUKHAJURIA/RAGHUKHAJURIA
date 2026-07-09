@@ -89,5 +89,3 @@ Successfully solved **300+ problems** across major platforms:
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=vercel&logoColor=white&labelColor=18181B)](https://raghubuilds.vercel.app/)
 
 </div>
-
-
