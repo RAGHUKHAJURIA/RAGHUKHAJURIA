@@ -47,23 +47,23 @@ Currently exploring: Generative AI applications, agentic workflows, and cloud-na
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-18181B?style=flat&logo=react&logoColor=61DAFB&labelColor=18181B)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white&labelColor=18181B)](https://nextjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat&logo=nodedotjs&logoColor=339933&labelColor=18181B)](https://nodejs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=18181B)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat&logo=typescript&logoColor=3178C6&labelColor=18181B)](https://www.typescriptlang.org)
-[![Python](https://img.shields.io/badge/Python-18181B?style=flat&logo=python&logoColor=3776AB&labelColor=18181B)](https://www.python.org)
-[![C++](https://img.shields.io/badge/C++-18181B?style=flat&logo=cplusplus&logoColor=00599C&labelColor=18181B)](https://isocpp.org)
-[![Java](https://img.shields.io/badge/Java-18181B?style=flat&logo=openjdk&logoColor=ED8B00&labelColor=18181B)](https://www.oracle.com/java/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat&logo=mongodb&logoColor=47A248&labelColor=18181B)](https://www.mongodb.com)
-[![Express](https://img.shields.io/badge/Express-18181B?style=flat&logo=express&logoColor=white&labelColor=18181B)](https://expressjs.com)
-[![Git](https://img.shields.io/badge/Git-18181B?style=flat&logo=git&logoColor=F05032&labelColor=18181B)](https://git-scm.com)
-[![Gen AI](https://img.shields.io/badge/Gen_AI-18181B?style=flat&logo=openai&logoColor=white&labelColor=18181B)](https://openai.com)
-[![LangChain](https://img.shields.io/badge/LangChain-18181B?style=flat&logo=langchain&logoColor=white&labelColor=18181B)](https://www.langchain.com)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-18181B?style=flat&logo=postman&logoColor=FF6C37&labelColor=18181B)](https://postman.com)
-[![Docker](https://img.shields.io/badge/Docker-18181B?style=flat&logo=docker&logoColor=2496ED&labelColor=18181B)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/AWS-18181B?style=flat&logo=amazonwebservices&logoColor=FF9900&labelColor=18181B)](https://aws.amazon.com)
-[![Linux](https://img.shields.io/badge/Linux-18181B?style=flat&logo=linux&logoColor=FCC624&labelColor=18181B)](https://www.linux.org)
+![React](https://img.shields.io/badge/React-18181B?style=flat&logo=react&logoColor=61DAFB&labelColor=18181B)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white&labelColor=18181B)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat&logo=nodedotjs&logoColor=339933&labelColor=18181B)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=18181B)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat&logo=typescript&logoColor=3178C6&labelColor=18181B)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat&logo=python&logoColor=3776AB&labelColor=18181B)
+![C++](https://img.shields.io/badge/C++-18181B?style=flat&logo=cplusplus&logoColor=00599C&labelColor=18181B)
+![Java](https://img.shields.io/badge/Java-18181B?style=flat&logo=openjdk&logoColor=ED8B00&labelColor=18181B)
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat&logo=mongodb&logoColor=47A248&labelColor=18181B)
+![Express](https://img.shields.io/badge/Express-18181B?style=flat&logo=express&logoColor=white&labelColor=18181B)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat&logo=git&logoColor=F05032&labelColor=18181B)
+![Gen AI](https://img.shields.io/badge/Gen_AI-18181B?style=flat&logo=openai&logoColor=white&labelColor=18181B)
+![LangChain](https://img.shields.io/badge/LangChain-18181B?style=flat&logo=langchain&logoColor=white&labelColor=18181B)
+![REST APIs](https://img.shields.io/badge/REST_APIs-18181B?style=flat&logo=postman&logoColor=FF6C37&labelColor=18181B)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat&logo=docker&logoColor=2496ED&labelColor=18181B)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=flat&logo=amazonwebservices&logoColor=FF9900&labelColor=18181B)
+![Linux](https://img.shields.io/badge/Linux-18181B?style=flat&logo=linux&logoColor=FCC624&labelColor=18181B)
 
 </div>
 
@@ -85,28 +85,9 @@ Successfully solved **300+ problems** across major platforms:
 
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat&logo=github&logoColor=white&labelColor=18181B)](https://github.com/RAGHUKHAJURIA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat&logo=linkedin&logoColor=white&labelColor=18181B)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-18181B?style=flat&logo=gmail&logoColor=white&labelColor=18181B)](mailto:1ms23cs144@msrit.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=vercel&logoColor=white&labelColor=18181B)](https://raghukhajuria.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-18181B?style=flat&logo=gmail&logoColor=white&labelColor=18181B)](mailto:khajuriaraghu41@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=vercel&logoColor=white&labelColor=18181B)](https://raghubuilds.vercel.app/)
 
 </div>
 
----
 
-<div align="center">
-
-```text
- Code is never finished. It only becomes slightly less terrible over time.
-```
-
-```text
- Every commit I make is essentially a small, desperate apology to my future self.
- Someday I will return to this codebase, look at the spaghetti I've written, 
- and wonder who let me anywhere near a keyboard.
-```
-
-</div>
-
-<div align="center">
-<br />
-<sub>profile views: <img src="https://komarev.com/ghpvc/?username=RAGHUKHAJURIA&color=00d9ff&style=flat-square" /></sub>
-</div>
