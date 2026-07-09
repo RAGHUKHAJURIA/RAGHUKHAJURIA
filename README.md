@@ -47,23 +47,23 @@ Currently exploring: Generative AI applications, agentic workflows, and cloud-na
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-18181B?style=flat&logo=react&logoColor=61DAFB&labelColor=18181B" alt="React">
-<img src="https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white&labelColor=18181B" alt="Next.js">
-<img src="https://img.shields.io/badge/Node.js-18181B?style=flat&logo=nodedotjs&logoColor=339933&labelColor=18181B" alt="Node.js">
-<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=18181B" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-18181B?style=flat&logo=typescript&logoColor=3178C6&labelColor=18181B" alt="TypeScript">
-<img src="https://img.shields.io/badge/Python-18181B?style=flat&logo=python&logoColor=3776AB&labelColor=18181B" alt="Python">
-<img src="https://img.shields.io/badge/C++-18181B?style=flat&logo=cplusplus&logoColor=00599C&labelColor=18181B" alt="C++">
-<img src="https://img.shields.io/badge/Java-18181B?style=flat&logo=openjdk&logoColor=ED8B00&labelColor=18181B" alt="Java">
-<img src="https://img.shields.io/badge/MongoDB-18181B?style=flat&logo=mongodb&logoColor=47A248&labelColor=18181B" alt="MongoDB">
-<img src="https://img.shields.io/badge/Express-18181B?style=flat&logo=express&logoColor=white&labelColor=18181B" alt="Express">
-<img src="https://img.shields.io/badge/Git-18181B?style=flat&logo=git&logoColor=F05032&labelColor=18181B" alt="Git">
-<img src="https://img.shields.io/badge/Gen_AI-18181B?style=flat&logo=openai&logoColor=white&labelColor=18181B" alt="Gen AI">
-<img src="https://img.shields.io/badge/LangChain-18181B?style=flat&logo=langchain&logoColor=white&labelColor=18181B" alt="LangChain">
-<img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat&logo=postman&logoColor=FF6C37&labelColor=18181B" alt="REST APIs">
-<img src="https://img.shields.io/badge/Docker-18181B?style=flat&logo=docker&logoColor=2496ED&labelColor=18181B" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-18181B?style=flat&logo=amazonwebservices&logoColor=FF9900&labelColor=18181B" alt="AWS">
-<img src="https://img.shields.io/badge/Linux-18181B?style=flat&logo=linux&logoColor=FCC624&labelColor=18181B" alt="Linux">
+<a><img src="https://img.shields.io/badge/React-18181B?style=flat&logo=react&logoColor=61DAFB&labelColor=18181B" alt="React"></a>
+<a><img src="https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=white&labelColor=18181B" alt="Next.js"></a>
+<a><img src="https://img.shields.io/badge/Node.js-18181B?style=flat&logo=nodedotjs&logoColor=339933&labelColor=18181B" alt="Node.js"></a>
+<a><img src="https://img.shields.io/badge/JavaScript-18181B?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=18181B" alt="JavaScript"></a>
+<a><img src="https://img.shields.io/badge/TypeScript-18181B?style=flat&logo=typescript&logoColor=3178C6&labelColor=18181B" alt="TypeScript"></a>
+<a><img src="https://img.shields.io/badge/Python-18181B?style=flat&logo=python&logoColor=3776AB&labelColor=18181B" alt="Python"></a>
+<a><img src="https://img.shields.io/badge/C++-18181B?style=flat&logo=cplusplus&logoColor=00599C&labelColor=18181B" alt="C++"></a>
+<a><img src="https://img.shields.io/badge/Java-18181B?style=flat&logo=openjdk&logoColor=ED8B00&labelColor=18181B" alt="Java"></a>
+<a><img src="https://img.shields.io/badge/MongoDB-18181B?style=flat&logo=mongodb&logoColor=47A248&labelColor=18181B" alt="MongoDB"></a>
+<a><img src="https://img.shields.io/badge/Express-18181B?style=flat&logo=express&logoColor=white&labelColor=18181B" alt="Express"></a>
+<a><img src="https://img.shields.io/badge/Git-18181B?style=flat&logo=git&logoColor=F05032&labelColor=18181B" alt="Git"></a>
+<a><img src="https://img.shields.io/badge/Gen_AI-18181B?style=flat&logo=openai&logoColor=white&labelColor=18181B" alt="Gen AI"></a>
+<a><img src="https://img.shields.io/badge/LangChain-18181B?style=flat&logo=langchain&logoColor=white&labelColor=18181B" alt="LangChain"></a>
+<a><img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat&logo=postman&logoColor=FF6C37&labelColor=18181B" alt="REST APIs"></a>
+<a><img src="https://img.shields.io/badge/Docker-18181B?style=flat&logo=docker&logoColor=2496ED&labelColor=18181B" alt="Docker"></a>
+<a><img src="https://img.shields.io/badge/AWS-18181B?style=flat&logo=amazonwebservices&logoColor=FF9900&labelColor=18181B" alt="AWS"></a>
+<a><img src="https://img.shields.io/badge/Linux-18181B?style=flat&logo=linux&logoColor=FCC624&labelColor=18181B" alt="Linux"></a>
 
 </div>
 
