@@ -87,7 +87,7 @@ Successfully solved **300+ problems** across major platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat&logo=linkedin&logoColor=white&labelColor=18181B)](https://linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/Gmail-18181B?style=flat&logo=gmail&logoColor=white&labelColor=18181B)](mailto:khajuriaraghu41@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=vercel&logoColor=white&labelColor=18181B)](https://raghubuilds.vercel.app/)
-![Phone](https://img.shields.io/badge/📞_6006863792-18181B?style=flat&labelColor=18181B)
+
 
 **`📞 6006863792`**
 
